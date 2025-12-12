@@ -24,6 +24,13 @@
     ]
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Add contact details here."
+  },
+  {
     "objectID": "peatpic.html",
     "href": "peatpic.html",
     "title": "The PeatPic Project",
@@ -35,7 +42,7 @@
     "href": "test.html",
     "title": "menu-test",
     "section": "",
-    "text": "This is a age to test the menu function.",
+    "text": "This is a page to test the menu function.",
     "crumbs": [
       "Home",
       "test"

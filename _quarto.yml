@@ -12,6 +12,7 @@ website:
       - tracking.qmd
       - peatpic.qmd
       - quebec.qmd
+      - contact.qmd
 
     right:
       - icon: github
