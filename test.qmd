@@ -1,0 +1,5 @@
+---
+title: "menu-test"
+---
+
+This is a age to test the menu function.
