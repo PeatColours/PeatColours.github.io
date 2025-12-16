@@ -3,6 +3,14 @@ title: "Tracking the Colour of Peatlands"
 template-partials:
   - title-block.html
 ---
+
+
+**The Tracking the Colour of Peatland project** uses community science to collect photographs of wetlands and peatlands over the course of the year from publicly accessible sites.
+
+Any time someone visits a site, they can take a fixed-point photograph of the wetland using one of the specially designed phone cradles and send the photograph over. This allows us to build up a picture of how these wetlands change over the course of the year with regards to their colour.
+
+We have 22 sites in the project currently. You can access the photographs using the map below:
+
 <div style="overflow: hidden;
   padding-top: 75%;
   position: relative">
