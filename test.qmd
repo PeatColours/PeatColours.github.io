@@ -1,5 +1,0 @@
----
-title: "menu-test"
----
-
-This is a page to test the menu function.

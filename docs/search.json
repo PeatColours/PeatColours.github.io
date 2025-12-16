@@ -1,34 +1,13 @@
 [
   {
-    "objectID": "tracking.html",
-    "href": "tracking.html",
-    "title": "Tracking the Colour of Peatlands",
-    "section": "",
-    "text": "This is the Tracking the Colour of Peatlands page."
-  },
-  {
-    "objectID": "quebec.html",
-    "href": "quebec.html",
-    "title": "Suivre la couleur des milieux humides au Québec",
-    "section": "",
-    "text": "This is the Suivre la couleur des milieux humides au Québec page."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "",
     "section": "",
-    "text": "This is the PeatColours homepage.",
+    "text": "What is peatland green leaf phenology?\nPlant phenology refers to the study of the timing and seasonal changes in plants’ life cycle events. It involves observing and recording when plants bud, leaf out (become ‘green’), flower, and fruit, as well as when they shed leaves or go dormant (turn brown).\n\n\n\ndescription\n\n\nThe phenology of leaf traits (or green leaf phenology e.g., greenness, timing of leaf-out and senescence) are important drivers of terrestrial carbon cycling.\nWe can use smartphone RGB photos to understand how these plants ‘green up’ over the summer, the timing of when they hit their maximum greenness and how they start to turn brown in the autumn.\nThe Tracking the Colour of Peatland project uses community science to collect photographs of wetlands and peatlands over the course of the year from publicly accessible sites.\nAny time someone visits a site, they can take a fixed-point photograph of the wetland using one of the specially designed phone cradles and send the photograph over. This allows us to build up a picture of how these wetlands change over the course of the year with regards to their colour.",
     "crumbs": [
       "Home"
     ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Add contact details here."
   },
   {
     "objectID": "peatpic.html",
@@ -38,14 +17,31 @@
     "text": "This is the PeatPic Project page."
   },
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "menu-test",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "This is a page to test the menu function.",
-    "crumbs": [
-      "Home",
-      "test"
-    ]
+    "text": "Add contact details here."
+  },
+  {
+    "objectID": "quebec.html",
+    "href": "quebec.html",
+    "title": "Suivre la couleur des milieux humides au Québec",
+    "section": "",
+    "text": "This is the Suivre la couleur des milieux humides au Québec page."
+  },
+  {
+    "objectID": "tracking.html",
+    "href": "tracking.html",
+    "title": "Tracking the Colour of Peatlands",
+    "section": "",
+    "text": "This is the Tracking the Colour of Peatlands page."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "This is the Suivre la couleur des milieux humides au Québec page."
   }
 ]

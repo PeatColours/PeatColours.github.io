@@ -12,7 +12,9 @@ website:
       - tracking.qmd
       - peatpic.qmd
       - quebec.qmd
+      - news.qmd
       - contact.qmd
+      
 
     right:
       - icon: github
@@ -28,8 +30,6 @@ website:
       contents:
         - href: index.qmd
           text: Home
-        - href: test.qmd
-          text: test
 
 format:
   html:

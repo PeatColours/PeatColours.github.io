@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peatcolours.github.io/tracking.html</loc>
-    <lastmod>2025-12-12T18:44:00.966Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peatcolours.github.io/quebec.html</loc>
-    <lastmod>2025-12-12T18:45:05.520Z</lastmod>
-  </url>
-  <url>
     <loc>https://peatcolours.github.io/index.html</loc>
-    <lastmod>2025-12-12T18:40:13.232Z</lastmod>
-  </url>
-  <url>
-    <loc>https://peatcolours.github.io/contact.html</loc>
-    <lastmod>2025-12-12T20:00:21.829Z</lastmod>
+    <lastmod>2025-12-16T18:49:37.462Z</lastmod>
   </url>
   <url>
     <loc>https://peatcolours.github.io/peatpic.html</loc>
-    <lastmod>2025-12-12T18:44:35.354Z</lastmod>
+    <lastmod>2025-12-16T18:30:44.335Z</lastmod>
   </url>
   <url>
-    <loc>https://peatcolours.github.io/test.html</loc>
-    <lastmod>2025-12-12T19:59:31.309Z</lastmod>
+    <loc>https://peatcolours.github.io/contact.html</loc>
+    <lastmod>2025-12-16T18:30:44.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peatcolours.github.io/quebec.html</loc>
+    <lastmod>2025-12-16T18:30:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peatcolours.github.io/tracking.html</loc>
+    <lastmod>2025-12-16T18:30:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peatcolours.github.io/news.html</loc>
+    <lastmod>2025-12-16T18:53:32.988Z</lastmod>
   </url>
 </urlset>
