@@ -5,3 +5,7 @@ title: "News"
 The **Tracking the Colour of Peatlands** project won the 2025 *Nobel Peat Prize for Best Outreach/Network*
 
 ![](./images/Image_4.jpg){fig-align="center"}
+
+<a href="https://theconversation.com/harnessing-technology-and-global-collaboration-to-understand-peatlands-265472" target="_blank" rel="noopener">
+  Visit Example
+</a>
