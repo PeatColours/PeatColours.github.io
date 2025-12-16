@@ -1,5 +1,19 @@
 ---
 title: "Tracking the Colour of Peatlands"
+template-partials:
+  - title-block.html
 ---
+<div style="overflow: hidden;
+  padding-top: 75%;
+  position: relative">
+<iframe src="https://peatcolours.shinyapps.io/peatlands_map_app/" title="Processes" scrolling="yes" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+<p>Your browser does not support iframes.</p>
+</iframe>
+</div>
 
-This is the Tracking the Colour of Peatlands page.

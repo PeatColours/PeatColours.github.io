@@ -8,7 +8,7 @@ template-partials:
 
 Plant phenology refers to the study of the timing and seasonal changes in plants' life cycle events. It involves observing and recording when plants bud, leaf out (become 'green'), flower, and fruit, as well as when they shed leaves or go dormant (turn brown).
 
-![description](./images/Image_1.png){fig-align="center"}
+![](./images/Image_1.png){fig-align="center"}
 
 The phenology of leaf traits (or green leaf phenology e.g., greenness, timing of leaf-out and senescence) are important drivers of terrestrial carbon cycling.
 
