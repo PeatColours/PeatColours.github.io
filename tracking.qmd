@@ -25,12 +25,14 @@ We have 22 sites in the project currently. You can access the photographs using 
 </iframe>
 </div>
 
-**Results so far**
+
+
+# Results so far
 
 ![](./images/Image_7.jpg){fig-align="center"}
 ![](./images/Image_8.jpg){fig-align="center"}
 
-*Project funding*: Sustainable Earth Institute, University of Plympouth
+*Project funding*: Sustainable Earth Institute, University of Plymouth
 
 *Project partners*: RSPB Scotland, Ducks Unlimited Canada, Store Mosse National Park, 
 
