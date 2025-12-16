@@ -31,8 +31,12 @@ We have 22 sites in the project currently. You can access the photographs using 
 
 # Results so far
 
-![](./images/Image_7.jpg){fig-align="center"}
-![](./images/Image_8.jpg){fig-align="center"}
+<div style="display:flex; gap:20px; justify-content:center;">
+  <img src="./images/Image_7.jpg" width="350">
+  <img src="./images/Image_8.jpg" width="350">
+</div>
+
+
 
 *Project funding*: Sustainable Earth Institute, University of Plymouth
 
