@@ -10,11 +10,18 @@
     ]
   },
   {
+    "objectID": "peatpic.html",
+    "href": "peatpic.html",
+    "title": "The PeatPic Project",
+    "section": "",
+    "text": "The PeatPic Project is an international community-science project that uses smartphone photos to track how peatlands change through the seasons. By collecting thousands of images from peatlands around the world, the project revealed clear differences in plant growth timing between bogs, fens, and swamps.\n\n \n\nThis low-cost approach helps scientists better understand peatland health and improve predictions of how these vital carbon-storing ecosystems may respond to climate change.\nThe results of our study showed that peatlands do not all behave the same way through the year. Using more than 3,700 photographs collected from 27 sites across 10 countries, the project found strong differences in the timing of plant growth between peatland types and vegetation communities.\n\n \n\nBogs reached peak greenness around 10 days later than fens, and these seasonal patterns were closely linked to vegetation type and local energy conditions, highlighting the importance of small-scale differences in how peatlands function and store carbon.\nThe PeatPic Project data are openly available and can be accessed via the Dryad data repository here:  The PeatPic project: Predicting plot-scale green leaf phenology across peatlands \nYou can read the open-access paper here:\n\nYou can follow the protocol below if you would like to collect similar data at your own sites:"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Add contact details here."
+    "text": "If you would like to get in touch about my research, projects, data, or potential collaborations, please feel free to contact me.\nI am particularly happy to hear from researchers, practitioners, students, and organisations interested in peatlands, environmental monitoring, community science, or related topics.\nEmail: davidson.scott_j@uqam.ca\nYou can also follow updates on the projects via linked publications, data repositories, and project pages on this website."
   },
   {
     "objectID": "quebec.html",
@@ -26,7 +33,7 @@
   {
     "objectID": "tracking.html",
     "href": "tracking.html",
-    "title": "Results so far",
+    "title": "Tracking the Colour of Peatlands",
     "section": "",
     "text": "The Tracking the Colour of Peatland project uses community science to collect photographs of wetlands and peatlands over the course of the year from publicly accessible sites.\n\n\n\n\n\nAny time someone visits a site, they can take a fixed-point photograph of the wetland using one of the specially designed phone cradles and send the photograph over. This allows us to build up a picture of how these wetlands change over the course of the year with regards to their colour.\nWe have 22 sites in the project currently. You can access the photographs using the map below:\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n\n\n\nResults so far\n\n \n\nProject funding: Sustainable Earth Institute, University of Plymouth\nProject partners: RSPB Scotland, Ducks Unlimited Canada"
   },
@@ -35,6 +42,6 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "The Tracking the Colour of Peatlands project won the 2025 Nobel Peat Prize for Best Outreach/Network\n\n\n\n\n\n Visit Example"
+    "text": "The Tracking the Colour of Peatlands project won the 2025 Nobel Peat Prize for Best Outreach/Network\n\n\n\n\n\nI wrote this article with Avni Malhotra (PNNL/University of Zurich) for The Conversation as part of the PeatColours project, which uses technology and global collaboration to improve understanding of peatlands.\n Click here to open link:"
   }
 ]

@@ -1,7 +1,5 @@
 ---
 title: "Tracking the Colour of Peatlands"
-template-partials:
-  - title-block.html
 ---
 
 **The Tracking the Colour of Peatland project** uses community science to collect photographs of wetlands and peatlands over the course of the year from publicly accessible sites.

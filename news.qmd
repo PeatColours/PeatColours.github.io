@@ -6,6 +6,9 @@ The **Tracking the Colour of Peatlands** project won the 2025 *Nobel Peat Prize 
 
 ![](./images/Image_4.jpg){fig-align="center"}
 
+
+I wrote this article with Avni Malhotra (PNNL/University of Zurich) for The Conversation as part of the PeatColours project, which uses technology and global collaboration to improve understanding of peatlands.
+
 <a href="https://theconversation.com/harnessing-technology-and-global-collaboration-to-understand-peatlands-265472" target="_blank" rel="noopener">
-  Visit Example
+  Click here to open link:
 </a>
