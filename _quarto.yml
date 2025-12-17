@@ -4,9 +4,9 @@ project:
 
 website:
   site-url: https://peatcolours.github.io
-  favicon: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
+  favicon: "images/logos/Tracking the colour of peatlands.png"
   navbar:
-    logo: "images/logos/tracking-the-colour-of-peatlands-1.jpg"
+    logo: "images/logos/Tracking the colour of peatlands.png"
     left:
       - index.qmd
       - tracking.qmd
