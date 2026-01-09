@@ -11,6 +11,7 @@ website:
       - index.qmd
       - tracking.qmd
       - peatpic.qmd
+      - quebec.qmd
       - news.qmd
       - contact.qmd
       
