@@ -2,7 +2,7 @@
 title: "Suivre la couleur des milieux humides au Québec"
 ---
 
-**À venir prochainement / Coming Soon
+**À venir prochainement / Coming Soon**
 
 <div style="display:flex; gap:20px; justify-content:center;">
   <img src="./images/French_logo_Quebec.png" width="350">
