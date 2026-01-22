@@ -1,6 +1,16 @@
 ---
 title: "News"
 ---
+
+*January 2026*
+
+I gave a presentation for the Wetland Exchange Network's seminar series titled **Exploring Peatland Phenology: Tracking the Colour of Peatlands using Community Science**. You can watch it by clicking the image below:
+
+::: {.text-center}
+[![](https://vumbnail.com/1157257231.jpg){width=720}](https://vimeo.com/1157257231)
+:::
+
+
 *December 2025*
 
 The **Tracking the Colour of Peatlands** project won the 2025 *Nobel Peat Prize for Best Outreach/Network*
