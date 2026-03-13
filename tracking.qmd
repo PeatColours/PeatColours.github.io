@@ -26,16 +26,6 @@ You can access the photographs using the map below:
 </div>
 
 
-
-# Tracking the Colour of Peatlands data summary
-
-<div style="display:flex; gap:20px; justify-content:center;">
-  <img src="./images/Image_7.jpg" width="350">
-  <img src="./images/Image_8.jpg" width="350">
-</div>
-
-
-
 <style>
 
 .site-cards details {
@@ -353,6 +343,16 @@ You can access the photographs using the map below:
 
 
 </div>
+
+
+
+# Tracking the Colour of Peatlands data summary
+
+<div style="display:flex; gap:20px; justify-content:center;">
+  <img src="./images/Image_7.jpg" width="350">
+  <img src="./images/Image_8.jpg" width="350">
+</div>
+
 
 *Project funding*:<br>
 Sustainable Earth Institute, University of Plymouth
