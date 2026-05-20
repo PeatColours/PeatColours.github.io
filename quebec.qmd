@@ -1,10 +1,53 @@
 ---
 title: "Suivre la couleur des milieux humides au Québec"
 ---
-
-**À venir prochainement / Coming Soon**
-
 <div style="display:flex; gap:20px; justify-content:center;">
   <img src="./images/French_logo_Quebec.png" width="350">
-  <img src="./images/English_logo_Quebec.png" width="350">
 </div>
+
+<style>
+
+.site-cards details {
+  background: #f8f9fa;
+  border: 1px solid #e3e6ea;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+
+.site-cards summary {
+  font-weight: 600;
+  font-size: 1.05em;
+  cursor: pointer;
+}
+
+.site-cards img {
+  margin-top: 10px;
+  border-radius: 6px;
+  max-width: 320px;
+}
+
+</style>
+
+<div class="site-cards">
+
+
+
+## Site details
+
+
+### Québec
+
+<details>
+<summary><strong>Parc national de Frotenac</strong></summary>
+
+**Location:** Québec, Canada  
+**Peatland type:** Raised bog  
+**Coordinates:** 45.969667, -71.150944  
+
+🌐 [Site information](https://www.sepaq.com/pq/fro/)  
+🗺 [View on map](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
+
+<img src="images/sites/Frontenac.jpeg">
+
+</details>
