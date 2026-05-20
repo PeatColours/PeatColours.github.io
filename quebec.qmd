@@ -31,9 +31,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 <div class="site-cards">
 
-
-
-## Site details
+## Détails du site
 
 
 ### Québec
@@ -41,12 +39,12 @@ title: "Suivre la couleur des milieux humides au Québec"
 <details>
 <summary><strong>Parc national de Frotenac</strong></summary>
 
-**Location:** Québec, Canada  
-**Peatland type:** Raised bog  
-**Coordinates:** 45.969667, -71.150944  
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : tourbière ombrotrophe<br>
+**Coordonnées** : 45.969667, -71.150944<br>
 
-🌐 [Site information](https://www.sepaq.com/pq/fro/)  
-🗺 [View on map](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
+🌐 [Informations sur le site](https://www.sepaq.com/pq/fro/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
 
 <img src="images/sites/Frontenac.jpeg">
 
