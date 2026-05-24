@@ -91,7 +91,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 </details>
 
 <details>
-<summary><strong>Marais de la Riviere aux Cerise</strong></summary>
+<summary><strong>Marais de la Rivière aux Cerise</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière minérotrophe<br>
