@@ -5,6 +5,21 @@ title: "Suivre la couleur des milieux humides au Québec"
   <img src="./images/French_logo_Quebec.png" width="350">
 </div>
 
+
+<div style="overflow: hidden;
+  padding-top: 75%;
+  position: relative">
+<iframe src="https://peatcolours.shinyapps.io/quebec-map-app/" title="Processes" scrolling="yes" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+<p>Your browser does not support iframes.</p>
+</iframe>
+</div>
+
 <style>
 
 .site-cards details {
@@ -37,7 +52,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 ### Québec
 
 <details>
-<summary><strong>Parc national de Frotenac</strong></summary>
+<summary><strong>Parc national de Frontenac</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière ombrotrophe<br>
@@ -46,6 +61,76 @@ title: "Suivre la couleur des milieux humides au Québec"
 🌐 [Informations sur le site](https://www.sepaq.com/pq/fro/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
 
-<img src="images/sites/Frontenac.jpeg">
+<img src="images/sites/Frontenac.png">
+
+</details>
+
+
+<details>
+<summary><strong>Parc écoforestier de Johnville</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : tourbière ombrotrophe<br>
+**Coordonnées** : 45.346917, -71.738167<br>
+
+🌐 [Informations sur le site](https://naturecantonsdelest.ca/nce/johnville-park/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/STnKgYjNFTbAm6aL6)
+
+<img src="images/sites/Johnville.png">
+
+</details>
+
+<details>
+<summary><strong>Opitciwan</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : tourbière ombrotrophe<br>
+**Coordonnées** : 48.663417, -74.944167<br>
+
+🗺 [Voir sur la carte](https://maps.app.goo.gl/QfaWHb5kGM8f26mBA)
+
+<img src="images/sites/Opticiwan.png">
+
+</details>
+
+<details>
+<summary><strong>Marais de la Riviere aux Cerise</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : tourbière minérotrophe<br>
+**Coordonnées** : 45.275972, -72.165611<br>
+
+🌐 [Informations sur le site](https://maraisauxcerises.com/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/w8Wq5Xd6CghLZHTp6)
+
+<img src="images/sites/Marais.png">
+
+</details>
+
+<details>
+<summary><strong>Parc national d'Oka</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marais<br>
+**Coordonnées** : 45.487472, -74.007417<br>
+
+🌐 [Informations sur le site](https://www.sepaq.com/pq/oka/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/J6PZh5wc6zL8MH329)
+
+<img src="images/sites/Oka.png">
+
+</details>
+
+<details>
+<summary><strong>Parc national du Plaisance</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marais<br>
+**Coordonnées** : 45.594778, -75.086722<br>
+
+🌐 [Informations sur le site](https://www.sepaq.com/pq/pla/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
+
+<img src="images/sites/Plaisance.png">
 
 </details>
