@@ -6,18 +6,15 @@ title: "Suivre la couleur des milieux humides au Québec"
 </div>
 
 
-<div style="overflow: hidden;
-  padding-top: 75%;
-  position: relative">
-<iframe src="https://peatcolours.shinyapps.io/quebec-map-app/" title="Processes" scrolling="yes" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-<p>Your browser does not support iframes.</p>
-</iframe>
+<div style="width: 100%; height: 850px;">
+  <iframe 
+    src="https://peatcolours.shinyapps.io/quebec-map-app/" 
+    title="sites de milieux humides au Québec"
+    scrolling="no"
+    frameborder="0"
+    style="border: 0; width: 100%; height: 100%;">
+    <p>Your browser does not support iframes.</p>
+  </iframe>
 </div>
 
 <style>
