@@ -131,3 +131,30 @@ title: "Suivre la couleur des milieux humides au Québec"
 <img src="images/sites/Plaisance.png">
 
 </details>
+
+<details>
+<summary><strong>Saint-Barthélemy</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marais<br>
+**Coordonnées** : 46.180212	-73.038257<br>
+
+🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
+
+<img src="images/sites/St_Barthélemy.png">
+
+</details>
+
+<details>
+<summary><strong>Parc Écomaritime de l'Anse-du-Port</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marécage<br>
+**Coordonnées** : 46.253427	-72.640365<br>
+
+🌐 [Informations sur le site](https://nicolet.ca/fr/repertoire/1666/parc-ecomaritime-de-l-anse-du-port)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/UDU8u3rwsWYr79Sp8)
+
+<img src="images/sites/Anse_du_port.png">
+
+</details>
