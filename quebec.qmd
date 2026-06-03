@@ -54,6 +54,8 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière ombrotrophe<br>
 **Coordonnées** : 45.969667, -71.150944<br>
+<strong>Partenaires du projet de recherche</strong> : Sepaq
+
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/fro/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
@@ -69,6 +71,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière ombrotrophe<br>
 **Coordonnées** : 45.346917, -71.738167<br>
+<strong>Partenaires du projet de recherche</strong> : Université de Sherbrooke, Université Bishop's, Nature Cantons-de-l'Est
 
 🌐 [Informations sur le site](https://naturecantonsdelest.ca/nce/johnville-park/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/STnKgYjNFTbAm6aL6)
@@ -83,6 +86,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière ombrotrophe<br>
 **Coordonnées** : 48.663417, -74.944167<br>
+<strong>Partenaires du projet de recherche</strong> : Conseil des Atikamekw D’Opitciwan
 
 🗺 [Voir sur la carte](https://maps.app.goo.gl/QfaWHb5kGM8f26mBA)
 
@@ -96,6 +100,8 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière minérotrophe<br>
 **Coordonnées** : 45.275972, -72.165611<br>
+<strong>Partenaires du projet de recherche</strong> : Marais de la Rivière aux Cerise
+
 
 🌐 [Informations sur le site](https://maraisauxcerises.com/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/w8Wq5Xd6CghLZHTp6)
@@ -110,6 +116,8 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais<br>
 **Coordonnées** : 45.487472, -74.007417<br>
+<strong>Partenaires du projet de recherche</strong> : Sepaq
+
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/oka/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/J6PZh5wc6zL8MH329)
@@ -124,6 +132,8 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais<br>
 **Coordonnées** : 45.594778, -75.086722<br>
+<strong>Partenaires du projet de recherche</strong> : Sepaq
+
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/pla/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
@@ -138,6 +148,8 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais<br>
 **Coordonnées** : 46.180212	-73.038257<br>
+<strong>Partenaires du projet de recherche</strong> : Canard Illimités Canada
+
 
 🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
 
@@ -151,6 +163,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marécage<br>
 **Coordonnées** : 46.253427	-72.640365<br>
+<strong>Partenaires du projet de recherche</strong> : Nicolet
 
 🌐 [Informations sur le site](https://nicolet.ca/fr/repertoire/1666/parc-ecomaritime-de-l-anse-du-port)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/UDU8u3rwsWYr79Sp8)
