@@ -171,3 +171,18 @@ title: "Suivre la couleur des milieux humides au Québec"
 <img src="images/sites/Anse_du_port.png">
 
 </details>
+
+<details>
+<summary><strong>Parc national du Bic</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marais salé<br>
+**Coordonnées** : 48.36041322, -68.78088287<br>
+<strong>Partenaires du projet de recherche</strong> : Sepaq
+
+🌐 [Informations sur le site](https://www.sepaq.com/pq/bic/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/8oH51rJP4J9kG8B48)
+
+<img src="images/sites/Bic.jpg">
+
+</details>
