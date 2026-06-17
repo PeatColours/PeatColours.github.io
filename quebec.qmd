@@ -177,12 +177,12 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais salé<br>
-**Coordonnées** : 48.36041322, -68.78088287<br>
+**Coordonnées** : -68.779567, 48.3599747<br>
 <strong>Partenaires du projet de recherche</strong> : Sepaq
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/bic/)  
-🗺 [Voir sur la carte](https://maps.app.goo.gl/8oH51rJP4J9kG8B48)
+🗺 [Voir sur la carte](https://maps.app.goo.gl/jfe31m1jnXthTMna8)
 
-<img src="images/sites/Bic.jpg">
+<img src="images/sites/Bic.png">
 
 </details>
