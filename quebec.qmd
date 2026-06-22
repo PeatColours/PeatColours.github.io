@@ -95,12 +95,12 @@ title: "Suivre la couleur des milieux humides au Québec"
 </details>
 
 <details>
-<summary><strong>Marais de la Rivière aux Cerise</strong></summary>
+<summary><strong>Marais de la Rivière aux Cerises</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : tourbière minérotrophe<br>
 **Coordonnées** : 45.275972, -72.165611<br>
-<strong>Partenaires du projet de recherche</strong> : Marais de la Rivière aux Cerise
+<strong>Partenaires du projet de recherche</strong> : Marais de la Rivière aux Cerises
 
 
 🌐 [Informations sur le site](https://maraisauxcerises.com/)  
@@ -143,14 +143,14 @@ title: "Suivre la couleur des milieux humides au Québec"
 </details>
 
 <details>
-<summary><strong>Saint-Barthélemy</strong></summary>
+<summary><strong>Maskinongé</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais<br>
 **Coordonnées** : 46.180212	-73.038257<br>
 <strong>Partenaires du projet de recherche</strong> : Canard Illimités Canada
 
-
+🌐 [Informations sur le site](https://www.canards.ca/des-nouvelles/provincial-fr/quebec-fr/lequipe-du-quebec-de-canards-illimites-canada-inaugure-son-premier-sentier-pedestre-a-maskinonge-dans-la-region-du-lac-saint-pierre-reputee-pour-sa-biodiversite-exceptionnelle/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
 
 <img src="images/sites/Saint-Barthélemy.png">
