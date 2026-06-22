@@ -153,7 +153,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 🌐 [Informations sur le site](https://www.canards.ca/des-nouvelles/provincial-fr/quebec-fr/lequipe-du-quebec-de-canards-illimites-canada-inaugure-son-premier-sentier-pedestre-a-maskinonge-dans-la-region-du-lac-saint-pierre-reputee-pour-sa-biodiversite-exceptionnelle/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
 
-<img src="images/sites/Saint-Barthélemy.png">
+<img src="images/sites/Maskinongé.png">
 
 </details>
 
