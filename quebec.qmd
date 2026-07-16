@@ -1,15 +1,149 @@
 ---
 title: "Suivre la couleur des milieux humides au Québec"
 ---
+
 <div style="display:flex; gap:20px; justify-content:center;">
   <img src="./images/French_logo_Quebec.png" width="350">
 </div>
+
+<div class="gallery-section">
+
+## Voyage à travers les milieux humides du Québec
+
+<div class="gallery-intro">
+
+Découvrez les paysages, les équipes de terrain et les milieux humides qui rendent ce projet possible. Ces images offrent un aperçu du travail réalisé partout au Québec pour suivre les changements de couleur des milieux humides au fil des saisons.
+
+</div>
+
+<div class="carousel-shell" id="project-carousel">
+
+<button class="carousel-button prev" type="button" aria-label="Image précédente">&#10094;</button>
+
+<div class="carousel-viewport">
+
+<div class="carousel-track">
+
+<div class="carousel-slide">
+<img src="images/gallery/photo1.png" alt="Le projet dans les milieux humides du Québec — image 1">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo2.png" alt="Le projet dans les milieux humides du Québec — image 2">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo3.png" alt="Le projet dans les milieux humides du Québec — image 3">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo4.png" alt="Le projet dans les milieux humides du Québec — image 4">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo5.png" alt="Le projet dans les milieux humides du Québec — image 5">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo6.png" alt="Le projet dans les milieux humides du Québec — image 6">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo7.png" alt="Le projet dans les milieux humides du Québec — image 7">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo8.png" alt="Le projet dans les milieux humides du Québec — image 8">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo9.png" alt="Le projet dans les milieux humides du Québec — image 9">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo10.png" alt="Le projet dans les milieux humides du Québec — image 10">
+</div>
+
+</div>
+
+</div>
+
+<button class="carousel-button next" type="button" aria-label="Image suivante">&#10095;</button>
+
+<div class="carousel-status" aria-live="polite">
+<span class="current-slide">1</span> / <span class="total-slides">10</span>
+</div>
+
+</div>
+
+<div class="instagram-follow">
+
+<a
+  href="https://www.instagram.com/peatcolours/"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Suivre Peat Colours sur Instagram">
+
+<span class="instagram-icon" aria-hidden="true"></span>
+<span>Suivez le projet sur Instagram : @peatcolours</span>
+
+</a>
+
+</div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const carousel = document.getElementById("project-carousel");
+  if (!carousel) return;
+
+  const track = carousel.querySelector(".carousel-track");
+  const slides = Array.from(carousel.querySelectorAll(".carousel-slide"));
+  const previousButton = carousel.querySelector(".prev");
+  const nextButton = carousel.querySelector(".next");
+  const currentSlide = carousel.querySelector(".current-slide");
+  const totalSlides = carousel.querySelector(".total-slides");
+
+  let index = 0;
+
+  totalSlides.textContent = slides.length;
+
+  function updateCarousel() {
+    track.style.transform = `translateX(-${index * 100}%)`;
+    currentSlide.textContent = index + 1;
+  }
+
+  previousButton.addEventListener("click", function () {
+    index = (index - 1 + slides.length) % slides.length;
+    updateCarousel();
+  });
+
+  nextButton.addEventListener("click", function () {
+    index = (index + 1) % slides.length;
+    updateCarousel();
+  });
+
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "ArrowLeft") {
+      previousButton.click();
+    }
+
+    if (event.key === "ArrowRight") {
+      nextButton.click();
+    }
+  });
+
+  updateCarousel();
+});
+</script>
+
 
 
 <div style="width: 100%; height: 850px;">
   <iframe 
     src="https://peatcolours.shinyapps.io/quebec-map-app/" 
-    title="sites de milieux humides au Québec"
+    title="Sites de milieux humides au Québec"
     scrolling="no"
     frameborder="0"
     style="border: 0; width: 100%; height: 100%;">
@@ -17,31 +151,9 @@ title: "Suivre la couleur des milieux humides au Québec"
   </iframe>
 </div>
 
-.photo-gallery {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 12px;
-  margin-top: 20px;
-}
-
-.photo-gallery img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-@media (max-width: 900px) {
-  .photo-gallery {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .photo-gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 <style>
+
+/* Site information cards */
 
 .site-cards details {
   background: #f8f9fa;
@@ -58,17 +170,189 @@ title: "Suivre la couleur des milieux humides au Québec"
 }
 
 .site-cards img {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
   margin-top: 10px;
   border-radius: 6px;
-  max-width: 320px;
+}
+
+
+/* Project photo section */
+
+.gallery-section {
+  width: 100%;
+  margin-top: 60px;
+  padding-top: 35px;
+  border-top: 1px solid #e3e6ea;
+}
+
+.gallery-intro {
+  max-width: 850px;
+  margin-bottom: 25px;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+
+/* One-image carousel */
+
+.carousel-shell {
+  position: relative;
+  width: min(100%, 620px);
+  margin: 0 auto;
+}
+
+.carousel-viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel-track {
+  display: flex;
+  flex-wrap: nowrap;
+  transition: transform 0.35s ease;
+}
+
+.carousel-slide {
+  flex: 0 0 100%;
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 78vh;
+  object-fit: contain;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  color: #222222;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.18);
+}
+
+.carousel-button:hover {
+  background: #ffffff;
+}
+
+.carousel-button.prev {
+  left: 12px;
+}
+
+.carousel-button.next {
+  right: 12px;
+}
+
+.carousel-status {
+  margin-top: 12px;
+  text-align: center;
+  color: #666666;
+  font-size: 0.92em;
+}
+
+
+/* Instagram section */
+
+.instagram-follow {
+  display: flex;
+  justify-content: center;
+  margin-top: 38px;
+  margin-bottom: 25px;
+}
+
+.instagram-follow a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #222222;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.instagram-follow a:hover {
+  text-decoration: underline;
+}
+
+.instagram-icon {
+  position: relative;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  flex: 0 0 24px;
+  border: 2px solid currentColor;
+  border-radius: 7px;
+}
+
+.instagram-icon::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 10px;
+  height: 10px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+
+.instagram-icon::after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 3px;
+  height: 3px;
+  background: currentColor;
+  border-radius: 50%;
+}
+
+
+@media (max-width: 600px) {
+
+  .carousel-shell {
+    width: 100%;
+  }
+
+  .carousel-button {
+    width: 38px;
+    height: 38px;
+    font-size: 24px;
+  }
+
+  .carousel-button.prev {
+    left: 6px;
+  }
+
+  .carousel-button.next {
+    right: 6px;
+  }
+
 }
 
 </style>
 
+
 <div class="site-cards">
 
 ## Détails du site
-
 
 ### Québec
 
@@ -79,7 +363,6 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Type de milieux humide** : tourbière ombrotrophe<br>
 **Coordonnées** : 45.969667, -71.150944<br>
 <strong>Partenaires du projet de recherche</strong> : Sepaq
-
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/fro/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/u5isSxunr8LKn4iLA)
@@ -104,6 +387,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 </details>
 
+
 <details>
 <summary><strong>Opitciwan</strong></summary>
 
@@ -118,6 +402,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 </details>
 
+
 <details>
 <summary><strong>Marais de la Rivière aux Cerises</strong></summary>
 
@@ -126,13 +411,13 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Coordonnées** : 45.275972, -72.165611<br>
 <strong>Partenaires du projet de recherche</strong> : Marais de la Rivière aux Cerises
 
-
 🌐 [Informations sur le site](https://maraisauxcerises.com/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/w8Wq5Xd6CghLZHTp6)
 
 <img src="images/sites/Marais de la Rivière aux Cerise.png">
 
 </details>
+
 
 <details>
 <summary><strong>Parc national d'Oka</strong></summary>
@@ -142,13 +427,13 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Coordonnées** : 45.487472, -74.007417<br>
 <strong>Partenaires du projet de recherche</strong> : Sepaq
 
-
 🌐 [Informations sur le site](https://www.sepaq.com/pq/oka/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/J6PZh5wc6zL8MH329)
 
 <img src="images/sites/Oka.png">
 
 </details>
+
 
 <details>
 <summary><strong>Parc national du Plaisance</strong></summary>
@@ -158,7 +443,6 @@ title: "Suivre la couleur des milieux humides au Québec"
 **Coordonnées** : 45.594778, -75.086722<br>
 <strong>Partenaires du projet de recherche</strong> : Sepaq
 
-
 🌐 [Informations sur le site](https://www.sepaq.com/pq/pla/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/Rfxnxs6BfpddvvnK7)
 
@@ -166,12 +450,13 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 </details>
 
+
 <details>
 <summary><strong>Maskinongé</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais<br>
-**Coordonnées** : 46.180212	-73.038257<br>
+**Coordonnées** : 46.180212, -73.038257<br>
 <strong>Partenaires du projet de recherche</strong> : Canard Illimités Canada
 
 🌐 [Informations sur le site](https://www.canards.ca/des-nouvelles/provincial-fr/quebec-fr/lequipe-du-quebec-de-canards-illimites-canada-inaugure-son-premier-sentier-pedestre-a-maskinonge-dans-la-region-du-lac-saint-pierre-reputee-pour-sa-biodiversite-exceptionnelle/)  
@@ -181,12 +466,13 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 </details>
 
+
 <details>
 <summary><strong>Parc Écomaritime de l'Anse-du-Port</strong></summary>
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marécage<br>
-**Coordonnées** : 46.253427	-72.640365<br>
+**Coordonnées** : 46.253427, -72.640365<br>
 <strong>Partenaires du projet de recherche</strong> : Nicolet
 
 🌐 [Informations sur le site](https://nicolet.ca/fr/repertoire/1666/parc-ecomaritime-de-l-anse-du-port)  
@@ -195,6 +481,7 @@ title: "Suivre la couleur des milieux humides au Québec"
 <img src="images/sites/Anse du Port.png">
 
 </details>
+
 
 <details>
 <summary><strong>Parc national du Bic</strong></summary>
@@ -211,20 +498,6 @@ title: "Suivre la couleur des milieux humides au Québec"
 
 </details>
 
-## Voyage à travers les milieux humides du Québec
-
-Découvrez les paysages, les équipes de terrain et les milieux humides qui rendent ce projet possible. Ces images offrent un aperçu du travail réalisé partout au Québec pour suivre les changements de couleur des milieux humides au fil des saisons.
-<div class="photo-gallery">
-
-<img src="images/gallery/photo1.png">
-<img src="images/gallery/photo2.png">
-<img src="images/gallery/photo3.png">
-<img src="images/gallery/photo4.png">
-<img src="images/gallery/photo5.png">
-<img src="images/gallery/photo6.png">
-<img src="images/gallery/photo7.png">
-<img src="images/gallery/photo8.png">
-<img src="images/gallery/photo9.png">
-<img src="images/gallery/photo10.png">
-
 </div>
+
+
