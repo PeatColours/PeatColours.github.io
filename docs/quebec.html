@@ -131,17 +131,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#détails-du-site" id="toc-détails-du-site" class="nav-link active" data-scroll-target="#détails-du-site">Détails du site</a>
-  <ul class="collapse">
-  <li><a href="#québec" id="toc-québec" class="nav-link" data-scroll-target="#québec">Québec</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -175,6 +166,10 @@ Your browser does not support iframes.
 </p>
 <p></iframe><p></p>
 </div>
+<p>.photo-gallery { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-top: 20px; }</p>
+<p>.photo-gallery img { width: 100%; border-radius: 8px; }</p>
+<p><span class="citation" data-cites="media">@media</span> (max-width: 900px) { .photo-gallery { grid-template-columns: repeat(3, 1fr); } }</p>
+<p><span class="citation" data-cites="media">@media</span> (max-width: 600px) { .photo-gallery { grid-template-columns: repeat(2, 1fr); } }</p>
 <style>
 
 .site-cards details {
@@ -198,7 +193,8 @@ Your browser does not support iframes.
 }
 
 </style>
-<section id="détails-du-site" class="level2 site-cards">
+<div class="site-cards">
+<section id="détails-du-site" class="level2">
 <h2 class="anchored" data-anchor-id="détails-du-site">Détails du site</h2>
 <section id="québec" class="level3">
 <h3 class="anchored" data-anchor-id="québec">Québec</h3>
@@ -282,10 +278,18 @@ Your browser does not support iframes.
 🗺 <a href="https://maps.app.goo.gl/jfe31m1jnXthTMna8">Voir sur la carte</a></p>
 <p><img src="images/sites/Bic.png"></p>
 </details>
+</section>
+</section>
+<section id="voyage-à-travers-les-milieux-humides-du-québec" class="level2">
+<h2 class="anchored" data-anchor-id="voyage-à-travers-les-milieux-humides-du-québec">Voyage à travers les milieux humides du Québec</h2>
+Découvrez les paysages, les équipes de terrain et les milieux humides qui rendent ce projet possible. Ces images offrent un aperçu du travail réalisé partout au Québec pour suivre les changements de couleur des milieux humides au fil des saisons.
+<div class="photo-gallery">
+<p><img src="images/gallery/photo1.png"> <img src="images/gallery/photo2.png"> <img src="images/gallery/photo3.png"> <img src="images/gallery/photo4.png"> <img src="images/gallery/photo5.png"> <img src="images/gallery/photo6.png"> <img src="images/gallery/photo7.png"> <img src="images/gallery/photo8.png"> <img src="images/gallery/photo9.png"> <img src="images/gallery/photo10.png"></p>
+</div>
 
 
 </section>
-</section>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

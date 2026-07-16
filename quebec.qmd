@@ -17,6 +17,30 @@ title: "Suivre la couleur des milieux humides au Québec"
   </iframe>
 </div>
 
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.photo-gallery img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media (max-width: 900px) {
+  .photo-gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .photo-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 <style>
 
 .site-cards details {
@@ -186,3 +210,21 @@ title: "Suivre la couleur des milieux humides au Québec"
 <img src="images/sites/Bic.png">
 
 </details>
+
+## Voyage à travers les milieux humides du Québec
+
+Découvrez les paysages, les équipes de terrain et les milieux humides qui rendent ce projet possible. Ces images offrent un aperçu du travail réalisé partout au Québec pour suivre les changements de couleur des milieux humides au fil des saisons.
+<div class="photo-gallery">
+
+<img src="images/gallery/photo1.png">
+<img src="images/gallery/photo2.png">
+<img src="images/gallery/photo3.png">
+<img src="images/gallery/photo4.png">
+<img src="images/gallery/photo5.png">
+<img src="images/gallery/photo6.png">
+<img src="images/gallery/photo7.png">
+<img src="images/gallery/photo8.png">
+<img src="images/gallery/photo9.png">
+<img src="images/gallery/photo10.png">
+
+</div>
