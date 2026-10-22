@@ -78,6 +78,14 @@ Découvrez les paysages, les équipes de terrain et les milieux humides qui rend
 <img src="images/gallery/photo10.png" alt="Le projet dans les milieux humides du Québec — image 10">
 </div>
 
+<div class="carousel-slide">
+<img src="images/gallery/photo11.png" alt="Le projet dans les milieux humides du Québec — image 11">
+</div>
+
+<div class="carousel-slide">
+<img src="images/gallery/photo12.png" alt="Le projet dans les milieux humides du Québec — image 12">
+</div>
+
 </div>
 
 </div>
