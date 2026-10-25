@@ -496,13 +496,43 @@ document.addEventListener("DOMContentLoaded", function () {
 
 **Emplacement** : Québec, Canada<br>
 **Type de milieux humide** : marais salé<br>
-**Coordonnées** : -68.779567, 48.3599747<br>
+**Coordonnées** : 48.36041322,	-68.78088287<br>
 <strong>Partenaires du projet de recherche</strong> : Sepaq
 
 🌐 [Informations sur le site](https://www.sepaq.com/pq/bic/)  
 🗺 [Voir sur la carte](https://maps.app.goo.gl/jfe31m1jnXthTMna8)
 
 <img src="images/sites/Bic.png">
+
+</details>
+
+<details>
+<summary><strong>Marais du Nord</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : marais<br>
+**Coordonnées** : 46.95831094, -71.39568673<br>
+<strong>Partenaires du projet de recherche</strong> : Marais du Nord
+
+🌐 [Informations sur le site](https://maraisdunord.com/)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/8H3f9RQhAL5Fv1KY9)
+
+<img src="images/sites/MaraisduNord.png">
+
+</details>
+
+<details>
+<summary><strong>Tourbière Joncas</strong></summary>
+
+**Emplacement** : Québec, Canada<br>
+**Type de milieux humide** : tourbière ombrotrophe<br>
+**Coordonnées** : 46.95831094, -71.39568673<br>
+<strong>Partenaires du projet de recherche</strong> : Université Laval
+
+🌐 [Informations sur le site](https://www.ffgg.ulaval.ca/foret-montmorency/ecosystemes-naturels/la-tourbiere-joncas)  
+🗺 [Voir sur la carte](https://maps.app.goo.gl/pgFsiQxhwhvoV2kC8)
+
+<img src="images/sites/Joncas.png">
 
 </details>
 
