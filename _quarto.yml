@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
+
 
 website:
   site-url: https://peatcolours.github.io
