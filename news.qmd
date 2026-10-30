@@ -2,6 +2,21 @@
 title: "News"
 ---
 
+*October 2026*
+
+We decided to bring PeatColours to life this Halloween with costumes inspired by the project! 🎃
+
+::: {.columns}
+::: {.column width="50%"}
+![](images/halloween_1.JPG){fig-alt="PeatColours Halloween costumes" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](images/halloween_2.JPG){fig-alt="The team dressed as the PeatColours project" width="100%"}
+:::
+:::
+
+
 *January 2026*
 
 I gave a presentation for the Wetland Exchange Network's seminar series titled **Exploring Peatland Phenology: Tracking the Colour of Peatlands using Community Science**. You can watch it by clicking the image below:
@@ -23,12 +38,4 @@ I wrote this article with Avni Malhotra (PNNL/University of Zurich) for The Conv
 
 <a href="https://theconversation.com/harnessing-technology-and-global-collaboration-to-understand-peatlands-265472" target="_blank" rel="noopener">
   Harnessing technology and global collaboration to understand peatlands
-</a>
-
-*February 2024*
-
-The University of Plymouth featured the Tracking the Colour of Peatlands project here:
-
-<a href="https://https://www.plymouth.ac.uk/news/citizen-science-project-tracks-the-health-of-planets-peatlands" target="_blank" rel="noopener">
-  Citizen science project tracks the health of planet’s peatlands
 </a>
